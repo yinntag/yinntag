@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...(Lure)
 - 📫 How to reach me ...(yinntag@gmail.com & tangyin0512@csu.edu.cn)
 
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?labelColor=ffffff&style=flat&logo=Google%20Scholar&logoColor=blue)]([https://www.linkedin.com/in/sanchit2843/](https://scholar.google.com/citations?user=ZsOHLZkAAAAJ&hl=zh-CN&authuser=1))
-[![Gmail](https://img.shields.io/badge/-Gmail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red)](yinntag:yinntag@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?labelColor=ffffff&style=flat&logo=Google%20Scholar&logoColor=blue)](https://scholar.google.com/citations?user=ZsOHLZkAAAAJ&hl=zh-CN&authuser=1)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?labelColor=ffffff&style=flat&logo=Gmail&logoColor=red)](mailto:yinntag@gmail.com)
 <br/>
 
 
